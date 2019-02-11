@@ -4,12 +4,12 @@ Com este scrept você consegue saber de onde os seus usuarios estão vindo ou o 
 
 ---
 
-## Coisas ja implemantadas
+## Coisas já implemantadas
 
-Aqui estou algumas das funções ja implemantado no script
+Aqui esta algumas das funções implemantado no script
 
-1. O script ja esta coletando informações de site que foram usando para chegar sim sua pagina, por exemplo, de uma pesquisa no Google ou de algum site que estava linkado.
-2. Você podera saber em qual pagina sua o usuario foi.
+1. O script ja esta coletando informações de site que foram usando para chegar em sua pagina, por exemplo, de uma pesquisa no Google ou de algum site que estava linkado.
+2. Você podera saber em qual pagina sua o usuario percorrel.
 3. Click the **Edit** button.
 4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
 5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
